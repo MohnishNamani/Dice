@@ -1,1 +1,1 @@
-# . The game contains two dice, one belongs to the player and one belonging to the computer. Dice has to place vertically and has to be identified which one belongs to the user and belongs to the computer.
+The game contains two dice, one belongs to the player and one belonging to the computer. Dice has to place vertically and has to be identified which one belongs to the user and belongs to the computer.
