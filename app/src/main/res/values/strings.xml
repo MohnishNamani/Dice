@@ -1,0 +1,12 @@
+<resources>
+    <string name="dice1">Dice</string>
+    <string name="dice2">Dice1</string>
+    <string name="btn">Higher</string>
+    <string name="btn2">Lower</string>
+    <string name="User">User</string>
+    <string name="Computer">Computer</string>
+    <string name="app_name">Dice</string>
+    <string name="DescriptionLogo">Description</string>
+    <string name="dice">Dice</string>
+
+</resources>
